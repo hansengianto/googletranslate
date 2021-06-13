@@ -6,4 +6,4 @@ pip install google_trans_new
 python translate.py
 
 # Language Destination List
-<a href="https://www.labnol.org/code/19899-google-translate-languages" target="_blank" rel="noopener noreferrer">Click Me!</a>
+https://www.labnol.org/code/19899-google-translate-languages
