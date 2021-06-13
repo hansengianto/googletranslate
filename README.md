@@ -1,9 +1,10 @@
 # Windows Google Translate Program
 V0.1
 
-# How To Run
+# Install Requirement
 pip install google_trans_new
-<br>
+
+# How To Run
 python translate.py
 
 # Language Destination List
